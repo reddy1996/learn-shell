@@ -3,5 +3,5 @@ shell scripting topics
 variables
 
 
-printing 
+1.printing 
 functions 
