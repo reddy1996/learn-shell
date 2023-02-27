@@ -4,5 +4,4 @@ variables
 
 
 1.printing 
-2.functions 
-3.variable 
+functions 
